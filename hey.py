@@ -1,0 +1,8 @@
+hello
+
+
+
+pycharm
+exit
+
+touch
