@@ -1,4 +1,5 @@
 print ("hello world.this is my first program")
-print ("hi")
+print ("hi")h
 print (12+13)
 print ("its my first git program")
+print('2nd test code")
